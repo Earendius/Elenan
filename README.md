@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Welcome to Earendius' land
 
-You can use the [editor on GitHub](https://github.com/Earendius/Elenan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The creation date of this land is 12/30/2018.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To begin with, a poem by J.R.R.Tolkien is presented below. Enjoy.
 
-### Markdown
+### Roads go ever on
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Roads go ever ever on,
+Over rock and under tree,
+By caves where never sun has shone,
+By streams that never find the sea;
+Over snow by winter sown,
+And through the merry flowers of June,
+Over grass and over stone,
+And under mountains in the moon.
 
-```markdown
-Syntax highlighted code block
+Roads go ever ever on,
+Under cloud and under star.
+Yet feet that wandering have gone
+Turn at last to home afar.
+Eyes that fire and sword have seen,
+And horror in the halls of stone
+Look at last on meadows green,
+And trees and hills they long have known.
 
-# Header 1
-## Header 2
-### Header 3
+The Road goes ever on and on
+Down from the door where it began.
+Now far ahead the Road has gone,
+And I must follow, if I can,
+Pursuing it with eager feet,
+Until it joins some larger way,
+Where many paths and errands meet.
 
-- Bulleted
-- List
+The Road goes ever on and on
+Down from the door where it began.
+Now far ahead the Road has gone,
+And I must follow, if I can,
+Pursuing it with weary feet,
+Until it joins some larger way,
+Where many paths and errands meet.
+And whither then? I cannot say.
 
-1. Numbered
-2. List
+The Road goes ever on and on
+Out from the door where it began.
+Now far ahead the Road has gone.
+Let others follow, if they can!
+Let them a journety new begin.
+But I at last with weary feet
+Will turn towards the lighted inn,
+My evening-rest and sleep to meet.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Earendius/Elenan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Still 'round the corner there may wait
+A new road or secret gate;
+And though I oft have passed them by,
+A day will come at last when I
+Shall take the hidden paths that run
+West of the Moon, East of the Sun.
