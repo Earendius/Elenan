@@ -5,12 +5,12 @@ The creation date of this land is 12/30/2018.
 
 Today I would like to share several lines from *The Prophet* by Kahlil Gibran. Though plain, these lines really remind me of what in deed religion is.
 
- *And an old priest said, "Speak to us of Religion."*
+ *And an old priest said, "Speak to us of Religion."*  
 
- *And he said:*
- *Have I spoken this day of aught else?*
- *Is not religion all deeds and all reflection,*
- *And that which is neither deed nor reflection,* 
+ *And he said:*  
+ *Have I spoken this day of aught else?*  
+ *Is not religion all deeds and all reflection,*  
+ *And that which is neither deed nor reflection,*  
  *but a wonder and a surprise ever springing in the soul,* 
  *even while the hands hew the stone or tend the loom?*
  *Who can separate his faith from his actions, or his belief from his occupations?*
