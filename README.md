@@ -1,6 +1,45 @@
 ## Welcome to Earendius' land
 
 The creation date of this land is 12/30/2018.
+
+#### 5/29/2019
+
+A song lyric that is said to be spoken to Sam by Frodo, before whose departure from the Gray Haven.
+
+*I have decided to go*
+*Where the cold will never find me*
+*To seek a land still green and unstained*
+
+*And I have decided to go*
+*Though my feet give out beneath me*
+*but parting is no solace for my pain*
+
+*I know it's hard to understand*
+*But don't you rather doubt my love for you*
+*Oh one day you'll come sailing after*
+*When your time comes*
+
+*I have decided to go*
+*Where my heart has gone before me*
+*To travel where the skyline meets the sea*
+
+*And when I get there I'll know peace*
+*Peace that passes understanding*
+*The peace that has long eluded me*
+
+*I know it's hard to understand*
+*But don't you rather doubt my love for you*
+*Oh one day you'll come sailing after*
+*When your time comes*
+
+*I know it's hard to understand*
+*But don't you doubt my love for you*
+*One day you'll cone sailing after*
+*When your time has come*
+
+*I have decided to go*
+*Where the cold will never find me*
+
 #### 1/30/2019
 
 Today I would like to share several lines from *The Prophet* by Kahlil Gibran. Though plain, these lines really remind me of what in deed religion is.
